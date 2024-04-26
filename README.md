@@ -1,7 +1,7 @@
 # Movie-App
 
 **Description:**
-This project was developed in April 2024 as part of a software engineering bootcamp.
+This project was developed in April 2024 as part of my software engineering bootcamp.
 
 - This  is a movie database application designed to manage and interact with a collection of movies.
 - Users can perform various operations such as listing movies, adding new movies, deleting movies, updating movie ratings, viewing statistics, getting random movie suggestions, searching for movies, and listing movies sorted by rating.
